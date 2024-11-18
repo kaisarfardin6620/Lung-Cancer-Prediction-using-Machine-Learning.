@@ -66,5 +66,5 @@ bash
 pip install -r requirements.txt
 Run the Jupyter Notebook or Python scripts to train and evaluate the models.
 
-Contributors
-Your Name
+Contributor
+Fardin Kaisar
